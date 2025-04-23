@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(#000000, #333333);
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    display:flex;
+  }
+  
+  .theater {
+    margin: 50px auto;
+    padding: 20px;
+    border: 5px solid #FFD700;
+    box-shadow: 0 0 30px red;
+    max-width: 800px;
+    background-color: #17d66d;
+  }
+h1{
+font-size:2em;
+margin-bottom:10px;
+
+
+
+
+}
+  
+  video {
+    width: 100%;
+    border: 3px solid rgb(235, 131, 131);
+    box-shadow: 0 0 15px rgb(233, 135, 135);
+  }
+  
+  .buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    background-color: #FFD700;
+    border: none;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  marquee {
+    margin-top: 20px;
+    color: red;
+  }
